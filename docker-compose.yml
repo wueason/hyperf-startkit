@@ -1,0 +1,21 @@
+version: "3"
+
+services:
+  hyperf-web:
+    build:
+      context: .
+    container_name: "hyperf"
+    restart: always
+    command: 
+      - "php watch"
+    volumes:
+      - ./:/var/www
+    ports:
+      - "9501:9501"
+    networks:
+      - microservice
+    tty: true
+
+networks:
+  microservice:
+    driver: bridge
