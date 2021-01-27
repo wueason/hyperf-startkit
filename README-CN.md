@@ -2,7 +2,7 @@
 
 # 介绍
 
-提供基于`Docker`镜像的`[Hyperf](https://github.com/hyperf/hyperf)`服务的快速开发环境。
+提供基于`Docker`镜像的[`Hyperf`](https://github.com/hyperf/hyperf)服务的快速开发环境。
 
 # 依赖
 

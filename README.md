@@ -2,7 +2,7 @@ English | [中文](./README-CN.md)
 
 # Introductions
 
-An alternative way to explore and develop with `[Hyperf](https://github.com/hyperf/hyperf)`.
+An alternative way to explore and develop with [`Hyperf`](https://github.com/hyperf/hyperf).
 
 # Requirements
 
